@@ -6,6 +6,7 @@ Build-Depends:
  debhelper (>= 10),
  cmake, extra-cmake-modules,
  libecm1-dev,
+ libkdecorations2-dev,
  libkf5codecs-dev,
  libkf5configwidgets-dev,
  libkf5coreaddons-dev,
