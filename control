@@ -1,5 +1,5 @@
 Source: sierrabreeze
-Section: unknown
+Section: kde
 Priority: optional
 Maintainer: Thomas Karl Pietrowski <thopiekar@unknown>
 Build-Depends:
