@@ -15,6 +15,7 @@ Build-Depends:
  libkf5widgetsaddons-dev,
  libkf5windowsystem-dev,
  libqt5x11extras5-dev,
+ libfftw3-dev
 Standards-Version: 4.1.2
 Homepage: https://github.com/krisives/SierraBreezeEnhanced-packaging/
 Vcs-Git: https://github.com/kupiqu/SierraBreezeEnhanced.git
