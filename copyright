@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: sierrabreeze
-Source: <url://example.com>
+Upstream-Name: sierrabreezeenhanced
+Source: https://github.com/kupiqu/SierraBreezeEnhanced
 
 Files: *
 Copyright: <years> <put author's name and email here>
