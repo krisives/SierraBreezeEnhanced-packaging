@@ -1,9 +1,9 @@
-SierraBreeze-packaging
+SierraBreezeEnhanced-packaging
 ======================
 
-- Debian packaging files for SierraBreeze
+- Debian packaging files for SierraBreezeEnhanced
 
 - SierraBreeze
-  - https://github.com/ishovkun/SierraBreeze
+  - https://github.com/kupiqu/SierraBreezeEnhanced/issues
 - PPA recipe
   - https://code.launchpad.net/~thopiekar/+recipe/sierrabreeze-daily
