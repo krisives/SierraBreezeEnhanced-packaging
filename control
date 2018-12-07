@@ -1,7 +1,7 @@
-Source: sierrabreeze
+Source: sierrabreezeenhanced
 Section: kde
 Priority: optional
-Maintainer: Thomas Karl Pietrowski <thopiekar@gmail.com>
+Maintainer: Kristopher Ives <kristopher.ives@gmail.com>
 Build-Depends:
  debhelper (>= 10),
  cmake, extra-cmake-modules,
@@ -16,12 +16,12 @@ Build-Depends:
  libkf5windowsystem-dev,
  libqt5x11extras5-dev,
 Standards-Version: 4.1.2
-Homepage: https://github.com/thopiekar/Cura-packaging
-Vcs-Git: https://github.com/ishovkun/SierraBreeze.git
-Vcs-Browser: https://github.com/ishovkun/SierraBreeze
+Homepage: https://github.com/krisives/SierraBreezeEnhanced-packaging/
+Vcs-Git: https://github.com/kupiqu/SierraBreezeEnhanced.git
+Vcs-Browser: https://github.com/kupiqu/SierraBreezeEnhanced
 
-Package: sierrabreeze
+Package: sierrabreezeenhanced
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: OSX-like window decoration for KDE Plasma written in C++
- Sierra Breeze is a fork of Breeze Window decoration that aims to mimic the OSX Sierra titlebar buttons.
+  A fork of BreezeEnhanced to make it (arguably) more minimalistic and informative
