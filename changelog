@@ -1,5 +1,5 @@
-sierrabreeze (0.0.1-1) unstable; urgency=medium
+sierrabreezeenhanced (0.0.1-1) unstable; urgency=medium
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release
 
- -- Thomas Karl Pietrowski <thopiekar@unknown>  Fri, 25 May 2018 19:28:44 +0200
+ -- Kristopher Ives <kristopher.ives@gmail.com>  Thu, 6 Dec 2018 17:36:58 -0800
