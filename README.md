@@ -6,4 +6,4 @@ SierraBreezeEnhanced-packaging
 - SierraBreezeEnhanced
   - https://github.com/kupiqu/SierraBreezeEnhanced/issues
 - PPA recipe
-  - https://code.launchpad.net/~thopiekar/+recipe/sierrabreeze-daily
+  - https://code.launchpad.net/~krisives/+recipe/sierrabreezeenhanced-daily
