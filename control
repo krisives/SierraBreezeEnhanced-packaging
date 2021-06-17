@@ -15,7 +15,8 @@ Build-Depends:
  libkf5widgetsaddons-dev,
  libkf5windowsystem-dev,
  libqt5x11extras5-dev,
- libfftw3-dev
+ libfftw3-dev,
+ libkf5iconthemes-dev
 Standards-Version: 4.1.2
 Homepage: https://github.com/kupiqu/SierraBreezeEnhanced
 Vcs-Git: https://github.com/kupiqu/SierraBreezeEnhanced.git
